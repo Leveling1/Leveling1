@@ -2,9 +2,13 @@
 A passionate developer who loves tackling complex problems and delivering user-centric, sustainable solutions. I combine technical rigor with creativity to build high-performance applications.
 
 🚀 **About Me**
+
 🎓 Education: Bachelor in General Engineering (in progress)
+
 💼 Experience: 1 year of mobile app development using Flutter(Dart)
+
 🔭 Interests: UI/UX design, performance optimization, cross-platform solutions
+
 🌱 Continuously Learning: DevOps · Cloud Computing · Scalable API Design
 
 
